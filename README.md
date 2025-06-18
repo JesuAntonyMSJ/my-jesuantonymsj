@@ -8,8 +8,7 @@
 </p>
 
 <p align="left">
-  <a href="https://harlee.pro"><img src="https://img.shields.io/badge/Portfolio-harlee.pro-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://[linkedin.com/in/jesuantonypravin-m]"><img src="https://img.shields.io/badge/LinkedIn-Hariharan--z-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/jesuantonypravin-m"><img src="https://img.shields.io/badge/LinkedIn-Hariharan--z-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:msj17jesuanto@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/harlee28"><img src="https://img.shields.io/badge/@harlee28-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
