@@ -19,13 +19,14 @@
 
 ---
 
-🧠 About Me
-📊 Data Enthusiast: Passionate about transforming raw data into actionable insights using Power BI, DAX, and SQL.
-🌱 Exploring: Advanced visualization techniques, Power Automate, and AI-driven analytics.
-🎯 Projects: Developed interactive dashboards for business intelligence, financial forecasting, and customer analytics.
-🏆 Certifications: Microsoft Certified: On Progress.
-📍 Live in: Coimbatore, India
-🌐 Portfolio: your-website.com – Showcasing real-time dashboard designs and analytics solutions.
+## 🧠 About Me
+
+- 📊 Data Enthusiast: Passionate about transforming raw data into actionable insights using Power BI, DAX, and SQL.
+- 🌱Exploring: Advanced visualization techniques, Power Automate, and AI-driven analytics.
+- 🎯 Projects: Developed interactive dashboards for business intelligence, financial forecasting, and customer analytics.
+- 🏆 Certifications: Microsoft Certified: On Progress.
+- 📍 Live in: Coimbatore, India
+- 🌐 Portfolio: your-website.com – Showcasing real-time dashboard designs and analytics solutions.
 
 ---
 
