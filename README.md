@@ -108,10 +108,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JesuAntonyMSJ&layout=compact&theme=dracula&hide_border=false&order=2" height="150" alt="Top Languages" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JesuAntonyMSJ&theme=dracula" height="150" alt="GitHub Streak" />
-</div>
-
 ----
 
 ## 🎯 Visitor Counter
