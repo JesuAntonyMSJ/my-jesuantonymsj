@@ -95,18 +95,18 @@
 
 <!-- Modern Graph Stats -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hariharanpugazh&theme=github_dark" width="95%"><br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariharanpugazh&theme=github-compact&hide_border=true" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JesuAntonyMSJ&theme=github_dark" width="95%"><br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JesuAntonyMSJ&theme=github-compact&hide_border=true" width="95%"/>
 </p>
 
 ---
 
 ## 🎯 Visitor Counter
 <p align="center">
-  <img src="https://count.getloli.com/get/@Hariharanpugazh?theme=moebooru" alt="Profile Views" />
+  <img src="https://count.getloli.com/get/@JesuAntonyMSJ?theme=moebooru" alt="Profile Views" />
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Hariharanpugazh/count.svg" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/JesuAntonyMSJ/count.svg" alt="Visitor Count" />
 </p>
 
 ---
