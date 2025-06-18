@@ -9,8 +9,10 @@
 
 <p align="left">
   <a href="https://linkedin.com/in/jesuantonypravin-m"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="LinkedIn" /></a>
-  <a href="mailto:msj17jesuanto@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/harlee28"><img src="https://img.shields.io/badge/@harlee28-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:msj17jesuanto@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" />
+  </a>
+  <a href="https://instagram.com/msj_maaster_mindd"><img src="https://img.shields.io/badge/@harlee28-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 <img align="right" src="https://github.com/Hariharanpugazh/Hariharanpugazh/blob/main/Memoji.jpg" width="200" style="border-radius: 16px;">
