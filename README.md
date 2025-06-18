@@ -12,20 +12,20 @@
   <a href="mailto:msj17jesuanto@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Gmail" />
   </a>
-  <a href="https://instagram.com/msj_maaster_mindd"><img src="https://img.shields.io/badge/@harlee28-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://instagram.com/msj_maaster_mindd"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="Instagram" /></a>
 </p>
 
 <img align="right" src="https://github.com/Hariharanpugazh/Hariharanpugazh/blob/main/Memoji.jpg" width="200" style="border-radius: 16px;">
 
 ---
 
-## 🧠 About Me
-
-- 🌱 Exploring: LangGraph, MCP (Model Context Protocol), Gemini + n8n Workflows  
-- 🎯 AI Projects: `FestiFly-AI`, `DocSentra`, `DeepSecure AI`, `ZARA Bot`  
-- 🏆 Awards: All Round Performer Nominee – SNS College of Engineering  
-- 📍 Live in: Coimbatore, India  
-- 🌐 Domains Owned: [harlee.pro](https://harlee.pro)
+🧠 About Me
+📊 Data Enthusiast: Passionate about transforming raw data into actionable insights using Power BI, DAX, and SQL.
+🌱 Exploring: Advanced visualization techniques, Power Automate, and AI-driven analytics.
+🎯 Projects: Developed interactive dashboards for business intelligence, financial forecasting, and customer analytics.
+🏆 Certifications: Microsoft Certified: On Progress.
+📍 Live in: Coimbatore, India
+🌐 Portfolio: your-website.com – Showcasing real-time dashboard designs and analytics solutions.
 
 ---
 
