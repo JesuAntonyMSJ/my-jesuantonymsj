@@ -115,17 +115,17 @@
 
 > “Build real, solve problems, leave impact.”
 
-I'm always open to collaborating on AI-based tools, full stack apps, and developer workflows.  
+I'm always open to collaborating on AI-based tools, Dashboard Creations, and UI/UX Designing.  
 Let’s build something meaningful — reach out!
 
 ---
 
 <p align="center" style="font-style: italic;">
-  Built with ❤️ by <strong>Hari Haran</strong> | Inspired by Innovation ⚡
+  Built with ❤️ by <strong>MSJ</strong> | Inspired by Innovation ⚡
 </p>
 
 <p align="center" style="font-style: italic; font-size: 1.2em; color: #aaa;">
-  © Hariharanpugazh
+  © Jesuantonypravinmsj
 </p>
 
 ---
